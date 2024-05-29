@@ -1,9 +1,12 @@
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram.
 
 
-## Deploy on Heroku
+## Deploy to Heroku
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://gitlab.com/Nani0778/Z-Mirror/-/tree/hr_deploy?ref_type=heads#deploy-to-heroku)
+Press Below Button to Deploy!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nani0778/Z-Mirror)
+
 
 ## Deploy on Railway
 
